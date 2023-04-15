@@ -19,7 +19,6 @@ Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
 ```
-/*
 #Program to find the gcd of two number using function.
 #Developed by: Vanitha S
 #Register number: 212222100057
@@ -34,7 +33,6 @@ def gcd():
         if num1%i==0 and num2%i==0:
             gcdvalue=i
     print("GCD of two numbers is:",gcdvalue)
-*/
 ```
 
 ## Output:
